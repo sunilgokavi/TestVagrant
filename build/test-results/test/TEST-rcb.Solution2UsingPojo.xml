@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rcb.Solution2UsingPojo" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-25T17:44:51" hostname="DESKTOP-B19170F" time="0.055">
+  <properties/>
+  <testcase name="assertFourForeignPlayers" classname="rcb.Solution2UsingPojo" time="0.053"/>
+  <testcase name="assertOneWicketKeeper" classname="rcb.Solution2UsingPojo" time="0.0"/>
+  <system-out><![CDATA[Four players are their in team
+At least one wicket keeper their in team
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
